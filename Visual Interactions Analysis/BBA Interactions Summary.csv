@@ -1,0 +1,49 @@
+Bird,Int_Num,Int_Class,Quality,Res,Real_start,Real_end,Comments
+00G blue,1,Non-Interaction,Low,10,,,
+00L yellow,1,Stop,Med,60,25/12/2017 6:19,25/12/2017 6:21,Only 1 landing
+00L yellow,2,Follow,Low,60,25/12/2017 6:39,25/12/2017 6:43,May not be that close to vessel
+00L yellow,3,Follow,Low,60,25/12/2017 7:23,25/12/2017 7:36,
+00L yellow,4,Stop,Low,60,25/12/2017 7:48,25/12/2017 7:52,Only 1 landing; comes right after previous
+00L yellow,5,Follow,High,60,25/12/2017 13:30,25/12/2017 13:44,Longer wet leads to longer dry?
+00L yellow,6,Follow,High,60,25/12/2017 14:05,25/12/2017 14:31,
+00L yellow,7,Pass,Low,60,25/12/2017 14:34,25/12/2017 14:36,Appears to be carry-over from previous interaction
+01L yellow,1,Stop,Low,5,26/12/2017 15:30,26/12/2017 15:34,Mostly following without landing
+07P blue,1,Follow,Low,60,24/12/2017 21:26,24/12/2017 21:32,ACC NO IMMERSION
+14T blue,1,Stop,Low,10,29/12/2017 5:22,29/12/2017 5:25,"Brief air follow, then 1 landing"
+14T blue,2,Pass,Med,10,,,
+14T blue,3,Non-Interaction,Low,10,,,
+17B brown,1,Pass,Low,5,,,GLS needs correction
+17B brown,2,Pass,Low,5,,,1 landing but not near enough to vessel
+17B brown,3,Follow,Med,5,30/12/2017 16:32,30/12/2017 16:40,Only 2 landings
+17B brown,4,Follow,Med,5,30/12/2017 16:55,30/12/2017 17:24,Second half of this interaction is an educated guess during AIS gap
+17B brown,5,Pass,High,5,,,
+17B brown,6,Stop,Med,5,30/12/2017 23:11,30/12/2017 23:13,1 landing plus short dry follow
+17B brown,7,Follow,High,5,30/12/2017 23:57,31/12/2017 0:13,
+17B brown,8,Stop,Low,5,31/12/2017 1:41,31/12/2017 1:43,AIS gap
+21G blue,1,Follow,Med,5,22/12/2017 22:14,22/12/2017 22:30,GLS needs correction; follow continues after animation
+22V red,1,Stop,Low,5,17/12/2017 6:57,17/12/2017 7:00,"Huge AIS gap, very unclear"
+26F red,1,Follow,Med,5,14/12/2017 13:23,14/12/2017 13:32,
+26F red,2,Pass,High,5,,,Big AIS gap
+26F red,3,Stop,Med,5,15/12/2017 8:13,15/12/2017 8:15,
+26G blue,1,Pass,Low,420,,,ACC NO IMMERSION; Passenger Ship
+26G blue,2,Follow,Low,420,,,ACC NO IMMERSION; Passenger Ship
+38F red,1,Follow,High,60,24/12/2017 22:01,24/12/2017 22:41,Angle
+38F red,2,Follow,High,60,24/12/2017 22:51,24/12/2017 23:01,
+57L yellow,1,Follow,High,5,15/12/2017 17:02,15/12/2017 17:12,
+57L yellow,2,Follow,Med,5,15/12/2017 19:26,15/12/2017 19:33,Angle
+60L yellow,1,Pass,Low,420,,,ACC NO IMMERSION; Passenger Ship
+63F red,1,Follow,Excellent,5,23/12/2017 13:30,23/12/2017 13:46,GLS needs correction
+69G blue,1,Pass,Med,10,,,
+69G blue,2,Follow,High,10,24/12/2017 15:23,24/12/2017 15:28,2 landings
+69G blue,3,Follow,Med,10,24/12/2017 16:08,24/12/2017 16:13,2 landings
+69G blue,4,Follow,High,10,24/12/2017 16:30,24/12/2017 16:42,2 landings
+74F red,1,Follow,Excellent,5,24/12/2017 3:20,24/12/2017 4:15,GLS needs correction
+75F red,1,Follow,Excellent,5,26/12/2017 4:11,26/12/2017 4:48,Long
+75F red,2,Follow,High,5,26/12/2017 6:13,26/12/2017 7:09,Need GIS to see full extent
+75F red,3,Pass,High,5,,,
+75F red,4,Follow,Excellent,5,26/12/2017 14:56,26/12/2017 15:14,U-turn
+75F red,5,Follow,Excellent,5,26/12/2017 16:02,26/12/2017 16:26,Long
+75F red,6,Follow,High,5,26/12/2017 18:17,26/12/2017 18:34,Angle
+75L yellow,1,Follow,High,420,,,ACC NO IMMERSION
+75L yellow,2,Pass,Low,420,,,ACC NO IMMERSION
+75L yellow,3,Follow,Med,420,,,ACC NO IMMERSION; Squid Jigger
